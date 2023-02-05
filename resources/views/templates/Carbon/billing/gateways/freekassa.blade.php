@@ -1,7 +1,7 @@
 @section('tablist')
     @parent
-    @isset($settings['paypal_gateway'])
-        @if ($settings['paypal_gateway'] == 'true')
+    @isset($settings['freekassa_gateway'])
+        @if ($settings['freekassa_gateway'] == 'true')
             <li class="nav-item">
                 <a class="nav-link navs-btn mb-sm-3 mb-md-0" id="tabs-icons-text-freekassa-tab" data-toggle="tab"
                     href="#tabs-icons-text-freekassa" role="tab" aria-controls="tabs-icons-text-freekassa"
