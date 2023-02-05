@@ -1,4 +1,4 @@
-# Thanks for downloading Freekassa Payment Service!
+# Thanks for downloading FreeKassa Payment Service!
 
 ## Installation instructions:
 1. Upload the files from the zip via SFTP/FTP (recommended) or a Text Editor

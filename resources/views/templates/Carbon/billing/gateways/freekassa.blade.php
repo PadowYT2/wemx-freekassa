@@ -5,7 +5,7 @@
             <li class="nav-item">
                 <a class="nav-link navs-btn mb-sm-3 mb-md-0" id="tabs-icons-text-freekassa-tab" data-toggle="tab"
                     href="#tabs-icons-text-freekassa" role="tab" aria-controls="tabs-icons-text-freekassa"
-                    aria-selected="false"><i class="ni ni-money-coins mr-2"></i> Freekassa</a>
+                    aria-selected="false"><i class="ni ni-money-coins mr-2"></i> FreeKassa</a>
             </li>
         @endif
     @endisset
