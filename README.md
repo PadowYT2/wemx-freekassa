@@ -8,6 +8,6 @@
 - After that you should be all clear!
 
 ### Need support?
-https://market.wemx.net/discord
+DM me on Discord - PadowYT2#1148
 
 Made by PadowYT2
