@@ -67,7 +67,7 @@ class FreekassaListener
 
         $this->saveLog($userId, $transactionId, $_REQUEST);
         DB::table('billing_users')->where('user_id', $userId)->increment('balance', $amount);
-        Bill::events()->create('client', false, 'balance:bitpave:added', Auth::user()->email . ' added amount: ' . $amount);
+        Bill::events()->create('client', false, 'balance:freekassa:added', Auth::user()->email . ' added amount: ' . $amount);
 
         die('YES');
     }
